@@ -2,7 +2,7 @@ local ScriptModule = {}
 
 script_name = "Sync Vector to Dialogue"
 script_description = "Generates relative \t tags for Vector lines based on Default lines"
-script_author = "Gemini"
+script_author = "KomeNome"
 script_version = "1.0"
 
 function ScriptModule.run(subs, sel)

@@ -6,7 +6,7 @@ local ScriptModule = {}
 
 script_name = "Vector Alpha Test"
 script_description = "Test alpha timing with 2-3 hardcoded transforms"
-script_author = ""
+script_author = "KomeNome"
 script_version = "1.0"
 
 function ScriptModule.run(subs, sel)

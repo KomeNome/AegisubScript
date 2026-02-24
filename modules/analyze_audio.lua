@@ -7,7 +7,7 @@ local ScriptModule = {}
 
 script_name = "Analyze Audio for Karaoke Effects"
 script_description = "Analyzes audio RMS for selected lines and adds amplitude metadata"
-script_author = "Cline"
+script_author = "KomeNome"
 script_version = "1.0"
 
 -- Helper function to calculate RMS (Root Mean Square) from audio samples

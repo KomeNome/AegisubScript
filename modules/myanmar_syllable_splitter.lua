@@ -2,7 +2,7 @@ local ScriptModule = {}
 
 script_name = "Myanmar Syllable Splitter"
 script_description = "Inserts a custom marker between Myanmar syllable clusters"
-script_author = "Cline Agent Manager"
+script_author = "KomeNome"
 script_version = "3.0"
 
 local function get_codepoint(s)
